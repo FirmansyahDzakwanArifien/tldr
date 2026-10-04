@@ -1,0 +1,1 @@
+import{_ as e}from"./NotFound.vue_vue_type_script_setup_true_lang-c8d6cb88.js";import{d as o,S as t,M as a,K as n,H as r}from"./index-ad38897f.js";import"./getPages-5b1fdd06.js";const d=o({__name:"NotFoundView",setup(s){return t({title:"Not Found | tldr InBrowser.App"}),(m,p)=>(r(),a("main",null,[n(e)]))}});export{d as default};
