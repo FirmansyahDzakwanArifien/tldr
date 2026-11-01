@@ -1,0 +1,1 @@
+import{_ as o,g as r,a as p}from"./platform-710846ea.js";import{d as u,H as l,I as c,L as e,N as g,g as s,a3 as t}from"./index-ad38897f.js";const _=u({__name:"LanguageIcon",setup(a){return(n,i)=>(l(),c(e(g),{component:e(o)},null,8,["component"]))}});function y(a){return{languageDisplay:s(()=>r(t(a)))}}function D(a){return{platformDisplay:s(()=>p(t(a)))}}export{_,y as a,D as u};
